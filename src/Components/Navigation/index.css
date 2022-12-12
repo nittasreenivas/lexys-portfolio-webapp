@@ -1,0 +1,16 @@
+.nav-container {
+  background: salmon;
+  padding: 16px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.nav-list a.active {
+  text-decoration: none;
+  color: black;
+}

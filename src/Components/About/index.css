@@ -1,0 +1,14 @@
+
+.about-para{
+   border:2px solid  black;
+  width:540px;
+  padding:15px;
+}
+
+.about-container{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content:center;
+  
+}

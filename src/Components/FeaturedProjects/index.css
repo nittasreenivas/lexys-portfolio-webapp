@@ -1,0 +1,11 @@
+.prod-list {
+  border: 1px solid salmon;
+  width: 400px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.prod-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

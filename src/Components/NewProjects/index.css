@@ -1,0 +1,11 @@
+.photos {
+  border: 1px solid salmon;
+  width: 205px;
+  padding: 10px;
+  margin: 12px;
+}
+
+.photo-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
